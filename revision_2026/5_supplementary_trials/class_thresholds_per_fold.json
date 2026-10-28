@@ -1,0 +1,32 @@
+[
+ {
+  "Holes": 0.45,
+  "Abrasion_Mark": 0.3,
+  "Oil_Stain": 0.7,
+  "Missing_Yarn": 0.45
+ },
+ {
+  "Holes": 0.35,
+  "Abrasion_Mark": 0.3,
+  "Oil_Stain": 0.7,
+  "Missing_Yarn": 0.45
+ },
+ {
+  "Holes": 0.4,
+  "Abrasion_Mark": 0.3,
+  "Oil_Stain": 0.7,
+  "Missing_Yarn": 0.45
+ },
+ {
+  "Holes": 0.3,
+  "Abrasion_Mark": 0.3,
+  "Oil_Stain": 0.65,
+  "Missing_Yarn": 0.45
+ },
+ {
+  "Holes": 0.45,
+  "Abrasion_Mark": 0.3,
+  "Oil_Stain": 0.7,
+  "Missing_Yarn": 0.45
+ }
+]
